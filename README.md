@@ -13,3 +13,5 @@ The third tab shows a table of the average grades of each period with a total of
 The users can select male, female, or both and the table will show the average grades for ages 15-22.
 
 https://leoli1.shinyapps.io/PS6-shiny-app/
+
+I spent 6 hours working on this assignment.
